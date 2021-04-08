@@ -1,0 +1,5 @@
+virtual/
+media/
+SHIApp/__pycache__
+SHIApp/migrations/__pycache__
+SHIProj/__pycache__
